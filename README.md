@@ -2,7 +2,7 @@
 ## How to start it?
 - run npm install
 - run npm start
--Make sure you are using Node.js =>8
+- Make sure you are using Node.js =>8
 
 ## Frontend
 - React 16
